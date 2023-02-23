@@ -1,0 +1,217 @@
+body{
+    padding: 0%;
+    width: 100%;
+}
+.navbar 
+{
+background-color: #EFB138;
+padding-left: 15px;
+height: 200px;
+
+}
+.p1 {margin-top: 10px;
+    margin-bottom: 130px;
+    margin-left: 35px;
+}
+.n {margin-top: 20px;
+    margin-bottom: 130px;
+    margin-left: 900px;
+}
+.b {margin-left: -1270px;
+    background-color: transparent;
+
+   
+}
+body{
+    background-color: #272727;
+}
+.mar
+{ margin-top: -50px;
+
+}
+.col1 {
+    margin-left: -50px;
+    margin-right: 20px;
+}
+.col2 {
+    margin-right: 20px;
+}
+.col3 {
+    margin-right: 20px;
+    margin-left: -10px;
+    margin-bottom: 20px;
+}
+.but {
+    margin-bottom: 10px;
+    height: 340px;
+}
+.a1
+{ margin-top: 10px;
+
+}
+.btn-light {
+    background-color: #EFB138;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-radius: 30px;
+}
+.sc{
+    margin-left: 100px;
+    margin-bottom: 55px;
+    
+}
+.card-body{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+    
+}
+.col-sm-8{
+    margin-top: 20px;
+    margin-left: -150px;
+}
+.card{
+    border-radius: 15px;
+}
+.imgs {
+    border-radius: 15px;
+}
+.img1{ 
+    margin-bottom: -40px;
+    margin-left: 150px;
+    height: 100px;
+    width: 110px;
+}
+.card-text{
+    font-weight: 700;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.img2{ 
+    margin-top: -18px;
+    margin-bottom: -33px;
+    margin-left: 150px;
+    height: 120px;
+    width: 130px;}
+    .img3{ 
+        margin-top: -10px;
+        margin-bottom: -30px;
+        margin-left: 150px;
+        height: 110px;
+        width: 130px;}
+    .circle{
+        height: 70px;
+        width: 70px;
+        background: #EFB138;
+        border-radius: 50%;
+        margin-left: 40px;
+        margin-top: 5px;
+        margin-bottom: -70px;
+    }
+    .content{
+        text-align: center;
+        color: #fff;
+        margin-top: 15px;
+    }
+    .img6{
+        margin-left: -400px;
+        margin-top: -60px;
+        border-radius: 35px;
+    }
+    .cont{
+        margin-top: -60px;
+        margin-left: 380px;
+        text-align: left;
+    }
+    .line{
+        width: 1px;
+        background-color: #6e6e6e;
+        height: 50px;
+        margin-left: 500px;
+        margin-top: -45px;
+    }
+    .img7{
+        margin-left: 540px;
+        margin-top: -90px;
+        border-radius: 35px;
+    }
+    .cont1{
+        margin-top: -75px;
+        margin-left: 610px;
+        text-align: left;
+    }
+    .line1 {
+        width: 1px;
+        background-color: #6e6e6e;
+        height: 50px;
+        margin-left: 750px;
+        margin-top: -50px;
+    }
+    .img8{
+        margin-left: 790px;
+        margin-top: -90px;
+        border-radius: 35px;
+    }
+    .cont3{
+        margin-top: -75px;
+        margin-left: 860px;
+        text-align: left;}
+        .px{
+            color: rgb(180, 180, 180);
+            text-align: center;
+            margin-top: 15px;
+        }
+       .btn-light{color: #fff;}
+       
+       .btn{
+        border-style: none;
+        border-radius: 50px;
+        font-weight: 400;
+        
+
+       }
+       .circle2 {
+        height: 27px;
+        width: 27px;
+        background-color: #272727;
+        border-radius: 15px;
+       margin-left: 121.5px;
+       margin-top: -25px;
+    }
+    .fa-solid{
+        color: #fff;
+    }
+    .circle3 {
+        height: 31px;
+        width: 32px;
+        background-color: #b18121;
+        border-radius: 35px;
+       margin-left: 94px;
+       margin-right: -8px;
+       margin-top: -27px;
+    margin-bottom: -2px;}
+       .fa-cart-shopping{
+        margin-left: 11px;
+        margin-bottom: -15px;
+       }
+       .circle4 {
+        height: 31px;
+        width: 32px;
+        background-color: #b18121;
+        border-radius: 35px;
+       margin-left: 94px;
+       margin-right: -8px;
+       margin-top: -27px;
+    margin-bottom: -2px;}
+    .fa-box-open{
+        margin-left: 6px;
+    }
+    .circle5 {
+        height: 31px;
+        width: 32px;
+        background-color: #b18121;
+        border-radius: 35px;
+       margin-left: 150px;
+       margin-right: -8px;
+       margin-top: -27px;
+    margin-bottom: -2px;}
